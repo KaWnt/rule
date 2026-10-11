@@ -1,0 +1,10 @@
+# NAME: XiaoHongShu
+# DESC: 小红书 (抓包整理 + blackmatrix7)
+# UPDATED: 2026-10-11 07:38:13 UTC
+# TOTAL: 6
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,fengkongcloud.com
