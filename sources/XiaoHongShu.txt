@@ -1,7 +1,4 @@
-# 小红书 (抓包整理 + blackmatrix7)
+# 小红书 (根据 Loon 抓包)
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN-SUFFIX,rednote.com
-DOMAIN-SUFFIX,fengkongcloud.com
