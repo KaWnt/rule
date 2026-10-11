@@ -1,7 +1,9 @@
 # NAME: XiaoHongShu
 # DESC: 小红书 (根据 Loon 抓包)
-# UPDATED: 2026-10-11 07:47:51 UTC
-# TOTAL: 3
+# UPDATED: 2026-10-11 07:53:11 UTC
+# TOTAL: 5
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
+DOMAIN-SUFFIX,xhs.cn

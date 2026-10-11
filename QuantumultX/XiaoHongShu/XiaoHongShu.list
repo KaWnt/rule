@@ -1,7 +1,9 @@
 # NAME: XiaoHongShu
 # DESC: 小红书 (根据 Loon 抓包)
-# UPDATED: 2026-10-11 07:47:51 UTC
-# TOTAL: 3
+# UPDATED: 2026-10-11 07:53:11 UTC
+# TOTAL: 5
 HOST-SUFFIX,xiaohongshu.com,PROXY
 HOST-SUFFIX,xhscdn.com,PROXY
 HOST-SUFFIX,rednotecdn.com,PROXY
+HOST-SUFFIX,rnote.com,PROXY
+HOST-SUFFIX,xhs.cn,PROXY

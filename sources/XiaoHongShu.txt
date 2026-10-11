@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
+DOMAIN-SUFFIX,xhs.cn
